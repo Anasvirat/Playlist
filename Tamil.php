@@ -1,5 +1,5 @@
 <?php
-$input = "https://anasvirat.github.io/PHP/513.m3u8"; // your stream URL
+$input = "https://tv.vaanam24.com/live.m3u8?c=STARSPORTSTAMILHD"; // your stream URL
 $outputFolder = "output_hls";
 $duration = "00:15:00";
 
